@@ -11,8 +11,7 @@ Mock API (https://jsonplaceholder.typicode.com/) dan todos va users ni yuklab ol
 ### How to run
 1. Xcode (14+) da yangi iOS project (App, UIKit) yarat.
 2. Fayllarni loyihaga qo‘shing (`Models`, `Networking`, `Persistence`, `Views`, `Controllers` kataloglari).
-3. `SceneDelegate.swift` ichida rootViewController ni `TodosViewController()` ga sozlang (kodsampel README ichida).
-4. Build & Run.
+3. Build & Run.
 
 ### Important
 - API: https://jsonplaceholder.typicode.com/todos va /users
